@@ -14,7 +14,7 @@ from moviepy.editor import VideoFileClip
 DEBUG = False
 API_TOKEN = '...'
 reply_text = \
-"""Привет, я \- [FuckAudio](https://t.me/fuckaudio_bot)\!
+"""Привет, я \- [remaudio_bot](https://t.me/...)\!
 Я предназначен для перевода речи из голосовых сообщений и видеосообщений в текст\. Чтобы перевести сообщение в текст, отправь мне его \(или перешли из другого чата\)\.
 
 Автор\: [Leonid Briskindov](https://t.me/LeonBrisk)
